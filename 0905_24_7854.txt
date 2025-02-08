@@ -1,0 +1,11 @@
+1. ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+Qué en Git se pueden modificar los archivos y guardar paso a paso y ver versiones anteriores por si algo sale mal. GitHub nos permite compartir el código y colaborar con otros fácilmente.
+
+2. ¿Cómo fue la experiencia de trabajar en parejas? fue interesante, ya que si teníamos un conflicto por realizar cambios en los archivos, nos comunicábamos y tratábamos de resolverlos.
+
+-¿Encontraste algún conflicto? si, fue al momento de modificar el README.md 
+
+-¿Cómo lo resolviste? investigando y poniéndonos de acuerdo que cambias realizaríamos.
+
+3. ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación? Qué en Git se puede guardar el historial de cambios, para así no perder información.
